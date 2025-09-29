@@ -1,6 +1,6 @@
 body {
-    background: rgb(125, 198, 205);
-    color: rgb(45, 45, 45);
+    background: rgb(113, 103, 189);
+    color: rgb(18, 205, 102);
     padding: 10px;
     font-family: Arial, sans-serif;
 }
@@ -45,7 +45,7 @@ a {
 
 /* main container area beneath menu */
 main {
-    background: rgb(245, 238, 219);
+    background: rgb(160, 159, 160);
     display: flex;
     margin-top: 20px;
 }
@@ -66,7 +66,7 @@ main {
 
 /* interests section styles */
 #interests {
-    border: 4px silver ridge;
+    border: 4px rgb(232, 240, 19) ridge;
     padding: 8px;
     margin-top: 20px;
 }
